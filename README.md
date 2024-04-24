@@ -1,4 +1,4 @@
-![Screenshot_24-4-2024_172643_localhost](https://github.com/Mukeshkumar697/Healthcare/assets/158994543/4adc6c29-fae3-4cdf-9a64-221702dee94a)# Health Plus
+# Health Plus
 
 Welcome to the Health Plus project repository! This is a React-based website aimed at providing accessible and personalized healthcare services to users. The website allows users to connect with expert doctors, schedule appointments, and receive expert medical advice.
 
@@ -25,8 +25,8 @@ Welcome to the Health Plus project repository! This is a React-based website aim
 
 ![Screenshot_24-4-2024_172539_localhost](https://github.com/Mukeshkumar697/Healthcare/assets/158994543/966bb6ed-f154-43f2-aec7-0a29cd7074fd)
 
+![Screenshot_24-4-2024_172643_localhost](https://github.com/Mukeshkumar697/Healthcare/assets/158994543/966bb6ed-f154-43f2-aec7-0a29cd7074fd)
 
-C:\Users\2317701\Downloads\Screenshot_24-4-2024_172539_localhost.jpeg
 
 
 
