@@ -21,11 +21,13 @@ Welcome to the Health Plus project repository! This is a React-based website aim
 
 ### Hero Section
 
-![Health-Plus Image-1](![Screenshot_24-4-2024_172643_localhost](https://github.com/Mukeshkumar697/Healthcare/assets/158994543/dfe66817-e659-4739-b85c-89fb5f92b1e9)
-)
+![Screenshot_24-4-2024_172427_localhost](https://github.com/Mukeshkumar697/Healthcare/assets/158994543/0fd9be78-393a-43d4-a273-8c31fa3b59d8)
+
+![Screenshot_24-4-2024_172539_localhost](https://github.com/Mukeshkumar697/Healthcare/assets/158994543/966bb6ed-f154-43f2-aec7-0a29cd7074fd)
+
 
 C:\Users\2317701\Downloads\Screenshot_24-4-2024_172539_localhost.jpeg
-![Screenshot_24-4-2024_172427_localhost](https://github.com/Mukeshkumar697/Healthcare/assets/158994543/d1f642e6-ed46-4547-9d46-a1d9d26e8035)
+
 
 
 ### Information Section
